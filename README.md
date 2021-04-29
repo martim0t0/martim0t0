@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @martim0t0
 - 👀 I’m interested in building my own app!
-- 🌱 I’m currently learning JavaScript, Typescript, and Angular.
+- 🌱 I’m currently learning JavaScript, Typescript, Vue, and Angular.
 - 💞️ I’m looking to collaborate on open source to sharpen my skills.
 - 📫 How to reach me? My github username is my GMail.
