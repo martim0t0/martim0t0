@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @martim0t0
 - 👀 I’m interested in networking and sharing knowledge!
-- 🌱 I’m currently learning Linux, JavaScript, Typescript, Vue, and Angular.
-- 💞️ I’m looking to collaborate on open source to sharpen my skills.
+- 🌱 I’m currently learning Gatsby.js and sharpening my React skills.
+- 💞️ I’m looking to collaborate on open source to give back to the community.
 - 📫 How to reach me? Send an email.
